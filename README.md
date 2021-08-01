@@ -21,6 +21,14 @@ This test suite was made to validate the contact form in the practice automation
 
 ### Run Steps:
 
-* Unzip Project
-* Open Console, write cd and file location, write `robot "JS Challenge robot framework.robot"`
-* Or github option 
+* Zipped project: 
+    1. Unzip Project.
+    2. Open console.
+    3. Write cd and file location. 
+    4. Write `robot "ContactAutomation.robot"`.
+* Github option: 
+    1. Open console.
+    2. Select a directory.
+    3. Type git clone https://github.com/AntoniaCastells/QA-challenge.git  
+    4. Write `robot "ContactAutomation.robot" `
+
